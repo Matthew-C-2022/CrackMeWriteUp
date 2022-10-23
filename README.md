@@ -10,3 +10,8 @@ There are several ways to defeat this crackme, one way would be to rebuild the o
 
 
 Another method to bypass this would be to patch the file and remove the for loop which would make the username == password removing the obfuscation or patch the jump statement to force it to success every attempt regardless of the password.
+
+
+What the code does:
+![image](https://user-images.githubusercontent.com/112186489/197394276-8127a70a-af9d-492b-b211-7cc4ea5e22ca.png)
+
