@@ -12,6 +12,11 @@ There are several ways to defeat this crackme, one way would be to rebuild the o
 Another method to bypass this would be to patch the file and remove the for loop which would make the username == password removing the obfuscation or patch the jump statement to force it to success every attempt regardless of the password.
 
 
+
+Another method which I dont reccomend would be to change the value of the obfuscated string via an external memory edit either in a c++ project or cheat engine or you can  make a DLL project and use that to edit the memory of the obfuscated string.
+
+
+
 What the code does:
 ![image](https://user-images.githubusercontent.com/112186489/197394276-8127a70a-af9d-492b-b211-7cc4ea5e22ca.png)
 
